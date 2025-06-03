@@ -139,7 +139,7 @@ export function ComputerForm({ onSubmit, initialData, submitLabel = 'Add Compute
             <FormItem>
               <FormLabel>Room</FormLabel>
               <FormControl>
-                <Input placeholder="Enter room number or name" {...field} />
+                <Input placeholder="внеси број" {...field} />
               </FormControl>
               <FormDescription>
                 Specify the location of this computer
